@@ -1,0 +1,20 @@
+{
+  "carrito": [
+    {
+      "id": "9267",
+      "nombre": "Iphone 15",
+      "precio": 1500,
+      "cantidad": 3,
+      "iva": 180,
+      "total": 4680
+    },
+    {
+      "id": "d3f1",
+      "nombre": "Iphone 15",
+      "precio": 1500,
+      "cantidad": 2,
+      "iva": 180,
+      "total": 3180
+    }
+  ]
+}
